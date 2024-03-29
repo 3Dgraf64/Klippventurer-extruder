@@ -27,3 +27,4 @@ Config:
 You'll have to modify your 
 rotation_distance: 39.461375 and
 gear_ratio: 50:10
+You may also have to reverse the rotation: dir_pin: !PA2
