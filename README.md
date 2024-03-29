@@ -2,6 +2,8 @@
 !!IN PROGRESS!!
 
 This is my contribution to the Klippventurer project.
+A big thank you to The-Synthax for being involved in this project by giving us the opportunity to replace the firmware of this printer by Klipper.
+Check out here: https://github.com/synthread/Klippventurer
 
 In my Adventurer 3 printer upgrade process, the next step after upgrading the operating system to Klipper (Klippventurer) is to replace the extruder.
 I had an old Voron Clockwork extruder lying around.  So I decided to go from there.
