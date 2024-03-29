@@ -28,3 +28,6 @@ You'll have to modify your
 rotation_distance: 39.461375 and
 gear_ratio: 50:10.  
 You may also have to reverse the rotation: dir_pin: !PA2
+
+Tests:
+Preliminary test shows 15mm3/sec with a .4mm CHT nozzle at 225 degc PLA
