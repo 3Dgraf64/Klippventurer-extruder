@@ -1,4 +1,6 @@
 # Klippventurer-mods
+!!IN PROGRESS!!
+
 This is my contribution to the Klippventurer project.
 
 In my Adventurer 3 printer upgrade process, the next step after upgrading the operating system to Klipper (Klippventurer) is to replace the extruder.
