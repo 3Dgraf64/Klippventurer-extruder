@@ -21,7 +21,7 @@ The hardware and assembly is essentially the same as Voron’s:
 https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/Manual/Afterburner.pdf
 The main differences are the attachment of the legs and an ECAS coupler.
 I did an adapter to connect the motor.
-The target is held by magnets. 
+The target is held by 2 3x6mm magnets. 
 
 Config:
 You'll have to modify your 
