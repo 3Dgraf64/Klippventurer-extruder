@@ -10,4 +10,4 @@ For the legs I suggest a skirt.  Cut the parts in triangle.  These are supports.
 Hardware and assembly:
 The hardware and assembly is essentially the same as Voron’s:
 https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/Manual/Afterburner.pdf
-The main differences are the attachment of the legs.
+The main differences are the attachment of the legs and an ECAS coupler.
