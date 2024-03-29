@@ -11,4 +11,3 @@ Hardware and assembly:
 The hardware and assembly is essentially the same as Voron’s:
 https://github.com/VoronDesign/Voron-Afterburner/blob/afterburner/Manual/Afterburner.pdf
 The main differences are the attachment of the legs and an ECAS coupler.
-
